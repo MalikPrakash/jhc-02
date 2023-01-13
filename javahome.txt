@@ -1,4 +1,5 @@
 Git is a first version control system
 This is my task two
 Git is light weight
-Git is widely tool
+Git is widely used tool
+
