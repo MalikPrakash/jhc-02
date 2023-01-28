@@ -11,3 +11,13 @@ Git is a Nice tool
 Git is good
 Prakash Chandra Malik
 >>>>>>> 9699bb55e6bca7175dc8a8191f2651f7ad99d9f4
+Git is a first version control system
+This is my task two
+Git is light weight
+Git is widely used tool
+Git is easy to work with 
+
+Git is a Nice tool
+Git is good
+Prakash Chandra Malik
+Git Tool is very papular tool
